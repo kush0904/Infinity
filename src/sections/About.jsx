@@ -145,7 +145,7 @@ const About = () => {
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
         We&apos;re fashion studio based in california. We create unique designs
-        that will blow your mind. We also design unique jewellary pieces.
+        that will blow your mind. We also design unique jewellery pieces.
         Fashion is an ART that can not be grasped by everyone.
         <br />
         <br />

@@ -161,7 +161,7 @@ const Shop = () => {
           trigger: element,
           start: "top top",
           end: `${pinWrapWidth} bottom`,
-          scroller: ".App", //locomotive-scroll
+          scroller: ".App", 
           scrub: 1,
           pin: true,
           // markers: true,

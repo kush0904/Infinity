@@ -21,7 +21,7 @@ const Section = styled.section`
   align-items: center;
 
   position: relative;
-  /* background-color: ${(props) => props.theme.text}; */
+
 `;
 
 const Overlay = styled.div`
@@ -67,7 +67,6 @@ const Container = styled.div`
   transform: translate(-50%, 0%);
   width: 25vw;
   height: auto;
-  /* background-color: yellow; */
 
   display: flex;
   flex-direction: column;
@@ -174,7 +173,7 @@ let t1= gsap.timeline();
           trigger: element,
           start: 'top top',
           end: 'bottom+=100% top-=100%',
-          scroller: '.App', //locomotive-scroll
+          scroller: '.App',
           scrub: 1,
           pin: true,
           // markers: true,

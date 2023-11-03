@@ -77,7 +77,7 @@ const Marquee = () => {
             data-scroll-speed="8"
             data-scroll-target="#direction"
           >
-            Fashon is an armour
+            Fashion is an armour
           </span>
         </Banner>
         <Banner data-scroll data-scroll-speed="-2" data-scroll-target="#direction">
